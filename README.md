@@ -8,7 +8,7 @@ Status: Build ✅
   <tr>
   <td>Frontend</td>
     <td>React</td>
-    <td>gsap</td>td>
+    <td>gsap</td>
   </tr>
 </table>
 
